@@ -1,14 +1,7 @@
 # 🔥 About Me:
 ## I, a mortal, embark upon the arduous path of full stack web development. With my Dao heart as my guide, I dare rebuke thy fate...
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=daoistcoder&theme=nightowl&hide_border=true)<br/>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
-
-
-# 💻 Tech Stack:
-
+## 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -24,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-<h3 align="left">Front-End Web Development:</h3>
+## <h3 align="left">Front-End Web Development:</h3>
 <p align="left">
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/html5.png" alt="html5" width="40" height="40" />
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/css3.png" alt="css3" width="40" height="40" />
@@ -35,11 +28,15 @@
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/vite.png" alt="vite" width="40" height="40" />
 </p>
 
-<h3 align="left">Back-End Web Development:</h3>
+## <h3 align="left">Back-End Web Development:</h3>
 <p align="left">
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/php.png" alt="php" width="40" height="40" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=daoistcoder&theme=nightowl&hide_border=true)<br/>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
 
 
 ## 🌐 Socials:
