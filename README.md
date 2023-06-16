@@ -17,22 +17,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-## <h3 align="left">Front-End Web Development:</h3>
-<p align="left">
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/html5.png" alt="html5" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/css3.png" alt="css3" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/bootstrap.png" alt="bootstrap" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/materialui.png" alt="materialui" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/javascript.png" alt="javascript" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/react.png" alt="react" width="40" height="40" />
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/vite.png" alt="vite" width="40" height="40" />
-</p>
-
-## <h3 align="left">Back-End Web Development:</h3>
-<p align="left">
-  <img src="https://github.com/melchie04/melchie04/blob/main/logos/php.png" alt="php" width="40" height="40" />
-</p>
-
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=daoistcoder&theme=yellowdark&border_radius=5&card_width=500)<br/>
 
