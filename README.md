@@ -1,5 +1,5 @@
 # 🔥 About Me:
-## I, a mortal, embark upon the arduous path of full stack web development. With my Dao heart as my guide, I dare rebuke thy fate...
+**I, a mortal, embark upon the arduous path of full stack web development. With my Dao heart as my guide, I dare rebuke thy fate...**
 
 ## 💻 Tech Stack:
 
