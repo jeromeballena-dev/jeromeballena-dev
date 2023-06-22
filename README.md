@@ -20,14 +20,9 @@
 ## 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=daoistcoder&theme=yellowdark&border_radius=5&card_width=500)<br/>
 
-
-
-
 ## 🌐 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/jerome-ballena-b8807a170" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jerome%20Ballena-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://facebook.com/rome.star.21" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-rome.star.21-blue?style=flat-square&logo=facebook"></a>
   <a href="mailto:jeromeballena.dev@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-jeromeballena.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
