@@ -2,7 +2,7 @@
 <div>
 <h3>  I, a mortal, embark upon the arduous path of full stack web development. With my Dao heart as my guide, I dare rebuke thy fate...</h3>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
-
+</div>
 
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
