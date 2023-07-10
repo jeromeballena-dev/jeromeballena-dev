@@ -1,6 +1,6 @@
 ## 🔥 About Me:
 <div>
-<h3>  I, a mortal, who embarked upon the arduous path of full stack web development. With my Dao heart as my guide, I dare rebuke thy fate...</h3>
+<h3>  I, a mortal, who embarked upon the arduous full stack web dev path, with the Dao as my guide, I dare rebuke thy fate...</h3>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
 </div>
 
