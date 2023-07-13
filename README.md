@@ -1,6 +1,6 @@
 ## 🔥 About Me:
 <div>
-<h3>  I, a mortal, who embarked upon the arduous full stack web dev path, with the Dao as my guide, I dare rebuke thy fate...</h3>
+<h3> I am a junior web developer, who's dedicated in building efficient and seamless web applications. Proficient in HTML, CSS and JavaScript and enjoys working with frameworks like ReactJS, VueJS and Laravel. With strong communication and adaptability, I always thrive in a collaborative working environment.</h3>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
 </div>
 
