@@ -1,7 +1,7 @@
 ## 🔥 About Me:
 <div>
 <h3>
-  I am a junior web developer, dedicated in building efficient and seamless web applications.
+  I'm a junior web developer, dedicated in building efficient and seamless web applications.
 Proficient in HTML, CSS, and JavaScript and enjoy working with frameworks like ReactJS,
 VueJS, and Laravel. With strong communication skills and adaptability, I always thrive in
 collaborative working environments.
