@@ -1,10 +1,7 @@
 ## 🔥 About Me:
 <div>
 <h3>
-  I'm a junior web developer, dedicated in building efficient and seamless web applications.
-Proficient in HTML, CSS, and JavaScript and enjoy working with frameworks like ReactJS,
-VueJS, and Laravel. With strong communication skills and adaptability, I always thrive in
-collaborative working environments.
+  I'm a junior web developer, dedicated in building efficient and seamless web applications. Proficient in HTML, CSS, and JavaScript and enjoy working with frameworks like ReactJS and Laravel. With strong communication skills and adaptability, I always thrive in collaborative working environments.
 </h3>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=daoistcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="daoistcoder" /></p>
 </div>
