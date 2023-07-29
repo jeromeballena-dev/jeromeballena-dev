@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=daoistcoder&theme=yellowdark&border_radius=5&card_width=500)<br/>
+
 
 ## 🌐 Socials:
 <p align="left">
