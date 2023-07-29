@@ -18,6 +18,9 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
+## 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=daoistcoder&theme=yellowdark&border_radius=5&card_width=500)<br/>
+
 ## 🌐 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/jerome-ballena-b8807a170" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jerome%20Ballena-blue?style=flat-square&logo=linkedin"></a>
